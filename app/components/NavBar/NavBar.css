@@ -1,0 +1,24 @@
+.nav-bar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 125px;
+  width: 100%;
+  background-color: #d9d9d9;
+}
+
+.nav-bar {
+  background-color: #d9d9d9;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 75%;
+}
+
+a {
+  color: #ba83ee;
+  text-decoration: none;
+  font-size: 2.5rem;
+  font-family: "Source Serif Pro";
+  font-weight: bold;
+}
