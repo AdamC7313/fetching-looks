@@ -5,6 +5,7 @@
   height: 125px;
   width: 100%;
   background-color: #d9d9d9;
+  position: fixed;
 }
 
 .nav-bar {
