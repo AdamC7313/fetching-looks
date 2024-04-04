@@ -21,3 +21,9 @@ main {
   font-family: "Source Serif Pro", serif;
   margin-top: 0px;
 }
+
+.info-text {
+  color: #4b8077;
+  font-size: 1.25rem;
+  text-align: center;
+}
